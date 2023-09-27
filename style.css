@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+#mama {
+    font-size: 100px;
+    color: purple;
+    display: flex;
+    justify-content: center;
+}
+#logogit {
+    color: white;
+}
+#logotwit {
+    color:rgb(1, 192, 255);
+}
+#logof {
+    color: blue;
+}
+#logoig {
+    color: rgb(255, 0, 255);
+}
+
